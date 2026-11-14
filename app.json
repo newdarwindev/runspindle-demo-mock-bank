@@ -1,0 +1,6 @@
+{
+  "id": "mock-bank",
+  "port": 4309,
+  "title": "Bank",
+  "fictional": true
+}
