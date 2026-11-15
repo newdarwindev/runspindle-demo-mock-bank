@@ -1,0 +1,11 @@
+{
+  "app": "mock-bank",
+  "title": "Bank \u00b7 Fictional demo",
+  "port": 4309,
+  "allowedActions": [
+    "signin",
+    "identity",
+    "read",
+    "observation-status"
+  ]
+}
