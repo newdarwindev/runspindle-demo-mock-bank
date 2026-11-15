@@ -1,0 +1,19 @@
+{
+  "id": "mock-bank",
+  "name": "Stonebridge",
+  "mark": "SB",
+  "tagline": "Steady records. Clear decisions.",
+  "colors": {
+    "background": "#f0f3f5",
+    "surface": "#ffffff",
+    "text": "#223649",
+    "accent": "#264b6b"
+  },
+  "typography": {
+    "display": "Times New Roman, serif",
+    "body": "Arial, sans-serif",
+    "tracking": ".09em"
+  },
+  "style": "banking",
+  "radius": 2
+}
